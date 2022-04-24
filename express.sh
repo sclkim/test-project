@@ -27,3 +27,5 @@ echo "====added the commit with message: '$message'"
 # git push
 git push origin "$current_branch"
 echo "====pushed changes to '$current_branch' branch"
+
+#express.sh "My commit message"
